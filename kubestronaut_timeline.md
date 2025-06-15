@@ -23,6 +23,18 @@
 
 ---
 
+## 🎯 Milestone Tracking
+
+### Checkpoints:
+- [ ] **31.07.2025:** LFCS
+- [ ] **31.08.2025**: KCNA
+- [ ] **30.11.2025:** CKA  
+- [ ] **31.01.2026:** CKAD
+- [ ] **28.02.2026:** KCSA
+- [ ] **31.05.2026:** CKS = **KUBESTRONAUT!**
+
+---
+
 ## 🎯 Phase 1: Linux Foundation (Juni-Juli 2025)
 **Ziel:** LFCS | **6 Wochen** | **17h/Woche**
 
@@ -437,34 +449,3 @@
 - **Knowledge Retention:** Weekly Reviews
 
 ---
-
-## 🎯 Milestone Tracking
-
-### Checkpoints:
-- [ ] **31.07.2025:** LFCS + KCNA ✅
-- [ ] **30.09.2025:** CKA ✅  
-- [ ] **30.11.2025:** CKAD ✅
-- [ ] **31.12.2025:** KCSA ✅
-- [ ] **31.03.2026:** CKS ✅ = **KUBESTRONAUT!**
-- [ ] **30.06.2026:** Neuer DevOps Job ✅
-
-### Progress Indicators:
-- **Green:** On Track
-- **Yellow:** Minor Delays (<1 week)
-- **Red:** Major Issues (>1 week delay)
-
----
-
-## 💪 Motivation & Mindset
-
-### Wöchentliche Reflexion:
-- Was lief gut diese Woche?
-- Welche Herausforderungen gab es?
-- Was kann nächste Woche verbessert werden?
-
----
-
-**🎯 Ziel im Blick: DevOps Experte in 12 Monaten!**
-
-**Start:** 15.06.2025 ⏰  
-**Finish:** März 2026 als Kubestronaut 🚀  
