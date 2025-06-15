@@ -48,7 +48,7 @@
 
 #### Montag 16.06. (3h)
 - [x] Portal Login & THRIVE Setup (30 min)
-- [ ] LFS207 Kapitel 1-2: Kurseinführung & Linux Grundlagen (2h)
+- [x] LFS207 Kapitel 1-2: Kurseinführung & Linux Grundlagen (2h)
 - [x] Linux VM/WSL2 einrichten (30 min)
 
 #### Dienstag 17.06. (2,5h)
