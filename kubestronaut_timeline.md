@@ -15,7 +15,7 @@
 | **Phase 3** | Okt-Nov 2025 | CKAD | 8 Wochen | 12h | 30.11.2025 |
 | **Phase 4** | Dez 2025 | KCSA | 4 Wochen | 10h | 31.12.2025 |
 | **Phase 5** | Jan-Mar 2026 | CKS | 12 Wochen | 15h | 31.03.2026 |
-| **Phase 6** | Apr-Jun 2026 | Puffer & Jobsuche | 12 Wochen | 5h | - |
+| **Phase 6** | Apr-Jun 2026 | Pufferzeit | 12 Wochen | 5h | - |
 
 **Gesamtaufwand:** ~600 Stunden über 12 Monate  
 **Durchschnitt:** 12 Stunden/Woche  
@@ -348,14 +348,11 @@
 ---
 
 ## 🚀 Phase 6: Career Transition (April-Juni 2026)
-**Ziel:** Jobwechsel | **12 Wochen** | **5h/Woche**
+**Ziel:** Stellenwechsel | **12 Wochen** | **5h/Woche**
 
 ### Aktivitäten:
 - [ ] LinkedIn Profil Update mit Zertifikaten
 - [ ] Portfolio Projekte erstellen
-- [ ] DevOps Job Applications
-- [ ] Interview Vorbereitung
-- [ ] Gehaltsverhandlungen
 
 ---
 
@@ -423,15 +420,9 @@
 - Welche Herausforderungen gab es?
 - Was kann nächste Woche verbessert werden?
 
-### Belohnungssystem:
-- **Pro bestandene Prüfung:** 500 CHF Belohnung
-- **Kubestronaut Status:** 1 Woche Urlaub
-- **Neuer Job:** Upgrade Investment-Portfolio
-
 ---
 
-**🎯 Ziel im Blick: Vom Software Engineer zum gefragten DevOps Expert in 12 Monaten!**
+**🎯 Ziel im Blick: DevOps Experte in 12 Monaten!**
 
-**Start:** Heute Abend, 17:30 Uhr ⏰  
+**Start:** 15.06.2025 ⏰  
 **Finish:** März 2026 als Kubestronaut 🚀  
-**ROI:** +20-30k CHF Jahresgehalt 💰
