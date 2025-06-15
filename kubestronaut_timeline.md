@@ -31,7 +31,7 @@
 #### Montag 16.06. (2h)
 - [x] Portal Login & THRIVE Setup
 - [x] LFS207 (Linux System Administration) starten
-- [ ] Linux VM/WSL2 einrichten
+- [x] Linux VM/WSL2 einrichten
 - [ ] Lernumgebung konfigurieren
 
 #### Dienstag 17.06. (2h)
