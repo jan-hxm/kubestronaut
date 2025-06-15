@@ -29,8 +29,8 @@
 **Fokus: Setup & LFCS Start**
 
 #### Montag 16.06. (2h)
-- [ ] Portal Login & THRIVE Setup
-- [ ] LFS207 (Linux System Administration) starten
+- [ X ] Portal Login & THRIVE Setup
+- [ X ] LFS207 (Linux System Administration) starten
 - [ ] Linux VM/WSL2 einrichten
 - [ ] Lernumgebung konfigurieren
 
