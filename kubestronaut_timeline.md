@@ -32,7 +32,7 @@
 - [x] Portal Login & THRIVE Setup
 - [x] LFS207 (Linux System Administration) starten
 - [x] Linux VM/WSL2 einrichten
-- [ ] Lernumgebung konfigurieren
+- [x] Lernumgebung konfigurieren
 
 #### Dienstag 17.06. (2h)
 - [ ] LFS207 Kapitel 1-2: Linux Basics
