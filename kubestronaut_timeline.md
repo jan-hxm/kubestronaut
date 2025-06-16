@@ -52,8 +52,9 @@
 - [x] Linux VM/WSL2 einrichten (30 min)
 
 #### Dienstag 17.06. (2,5h)
-- [ ] LFS207 Kapitel 3-4: Filesystem Hierarchie & Navigation (2h)
-- [ ] Basic Commands Practice (ls, cd, pwd, mkdir, chmod) (30 min)
+- [x] LFS207 Kapitel 3: User Environment (1h)
+- [ ] LFS207 Kapitel 4: User Account Management (1h)
+- [x] Basic Commands Practice (ls, cd, pwd, mkdir, chmod) (30 min)
 
 #### Mittwoch 18.06. (2,5h)
 - [ ] LFS207 Kapitel 5-6: File Operations & Text Processing (2h)
