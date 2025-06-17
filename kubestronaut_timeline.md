@@ -35,39 +35,36 @@
 
 ---
 
-## 🎯 Phase 1: Linux Foundation (Juni-Juli 2025)
+## 🎯 Phase 1: Linux Foundation LFCS (Juni-Juli 2025)
 **Ziel:** LFCS | **6 Wochen** | **17h/Woche**
-
-### Kursinformation: LFS207 (Linux System Administration Essentials)
-- **Vollständige Kapitel:** 30+ Kapitel
-- **Geschätzte Dauer:** 40-50 Stunden Lernmaterial
-- **Labs:** Umfangreich und praxisorientiert
 
 ### Woche 1 (16.-23. Juni 2025)
 **Fokus: Setup & Linux Basics**
+**Wochenaufwand**: 18.5h
 
 #### Montag 16.06. (3h)
-- [x] Portal Login & THRIVE Setup (30 min)
-- [x] LFS207 Kapitel 1-2: Kurseinführung & Linux Grundlagen (2h)
-- [x] Linux VM/WSL2 einrichten (30 min)
+✅ Portal Login & THRIVE Setup (30 min)
+✅ LFS207 Kapitel 1-2: Kurseinführung & Linux Grundlagen (2h)
+✅ Linux VM/WSL2 einrichten (30 min)
 
 #### Dienstag 17.06. (2,5h)
-- [x] LFS207 Kapitel 3: User Environment (1h)
-- [x] LFS207 Kapitel 4: User Account Management (1h)
-- [x] Basic Commands Practice (useradd, usermod, userdel, passwd, chage) (30 min)
+✅ LFS207 Kapitel 3: User Environment (1h)
+✅ LFS207 Kapitel 4: User Account Management (1h)
+✅ Basic Commands Practice (`useradd, usermod, userdel, passwd, chage`) (30 min)
 
 #### Mittwoch 18.06. (3h)
 - [ ] LFS207 Kapitel 5: Group Management (1.5h)
 - [ ] LFS207 Kapitel 6: File Permissions (1h)
 - [ ] Hands-on: File Permissions & Ownership (15 min)
-- [ ] Commands Practice (groupadd, groupdel, groupmod, and usermod) (15min)
+- [ ] Commands Practice (`groupadd, groupdel, groupmod, and usermod`) (15min)
 
-#### Donnerstag 19.06. (2,5h)
-- [ ] LFS207 Kapitel 7-8: Process Management & Job Control (2h)
-- [ ] Process Commands Practice (ps, top, kill, jobs) (30 min)
+#### Donnerstag 19.06. (3h)
+- [ ] LFS207 Kapitel 7: Package Management Systems (1.5h)
+- [ ] LFS207 Kapitel 8: dpk (1h)
+- [ ] Process Commands Practice () (30 min)
 
-#### Freitag 20.06. (2,5h)
-- [ ] LFS207 Kapitel 9-10: Package Management (APT/YUM) (2h)
+#### Freitag 20.06. (3h)
+- [ ] LFS207 Kapitel 9-12: Package Management (APT,RPM,DNF&YUM,ZIPPER) (2.5h)
 - [ ] Software Installation Labs (30 min)
 
 #### Samstag 21.06. (2h)
@@ -78,68 +75,68 @@
 - [ ] Schwachstellen identifizieren
 - [ ] Nächste Woche planen
 
-### Woche 2 (24.-30. Juni 2025)
+### Woche 2 (23.-30. Juni 2025)
 **Fokus: System Administration Deep Dive**
 
-#### Montag 24.06. (2,5h)
+#### Montag 23.06. (2,5h)
 - [ ] LFS207 Kapitel 13-14: Networking Basics & Configuration (2h)
 - [ ] Network Commands Practice (ip, netstat, ss) (30 min)
 
-#### Dienstag 25.06. (2,5h)
+#### Dienstag 24.06. (2,5h)
 - [ ] LFS207 Kapitel 15-16: Storage & Filesystem Management (2h)
 - [ ] Disk Management Labs (fdisk, mkfs, mount) (30 min)
 
-#### Mittwoch 26.06. (2,5h)
+#### Mittwoch 25.06. (2,5h)
 - [ ] LFS207 Kapitel 17-18: Users & Groups Management (2h)
 - [ ] User Administration Practice (useradd, usermod, groups) (30 min)
 
-#### Donnerstag 27.06. (2,5h)
+#### Donnerstag 26.06. (2,5h)
 - [ ] LFS207 Kapitel 19-20: Security & Access Control (2h)
 - [ ] Permission Labs & sudo Configuration (30 min)
 
-#### Freitag 28.06. (2,5h)
+#### Freitag 27.06. (2,5h)
 - [ ] LFS207 Kapitel 21-22: System Monitoring & Performance (2h)
 - [ ] Performance Tools Practice (htop, iotop, sar) (30 min)
 
-#### Samstag 29.06. (2h)
+#### Samstag 28.06. (2h)
 - [ ] LFS207 Kapitel 23-24: Logging & Troubleshooting (2h)
 
-#### Sonntag 30.06. (2h)
+#### Sonntag 29.06. (2h)
 - [ ] Kapitel 1-24 Review
 - [ ] Comprehensive Lab Session
 - [ ] Knowledge Gap Assessment
 
-### Woche 3 (01.-07. Juli 2025)
+### Woche 3 (30. Juni-06. Juli 2025)
 **Fokus: Advanced Administration**
 
-#### Montag 01.07. (2,5h)
+#### Montag 30.06. (2,5h)
 - [ ] LFS207 Kapitel 25-26: Backup & Recovery (2h)
 - [ ] Backup Strategy Labs (tar, rsync, cron) (30 min)
 
-#### Dienstag 02.07. (2,5h)
+#### Dienstag 01.07. (2,5h)
 - [ ] LFS207 Kapitel 27-28: Shell Scripting & Automation (2h)
 - [ ] Basic Script Writing Practice (30 min)
 
-#### Mittwoch 03.07. (2,5h)
+#### Mittwoch 02.07. (2,5h)
 - [ ] LFS207 Kapitel 29-30: Final Advanced Topics (2h)
 - [ ] System Optimization Labs (30 min)
 
-#### Donnerstag 04.07. (2,5h)
+#### Donnerstag 03.07. (2,5h)
 - [ ] LFS207 Complete Course Review (1,5h)
 - [ ] All Lab Exercises Completion Check (1h)
 
-#### Freitag 05.07. (2,5h)
+#### Freitag 04.07. (2,5h)
 - [ ] LFCS Practice Tests Beginn (2h)
 - [ ] Weak Areas Identification (30 min)
 
-#### Samstag 06.07. (2h)
+#### Samstag 05.07. (2h)
 - [ ] LFCS Mock Exam 1 (2h)
 
-#### Sonntag 07.07. (2h)
+#### Sonntag 06.07. (2h)
 - [ ] Mock Exam Review & Error Analysis
 - [ ] Remedial Learning für schwache Bereiche
 
-### Woche 4 (08.-14. Juli 2025)
+### Woche 4 (07.-14. Juli 2025)
 **Fokus: LFCS Exam Preparation**
 
 #### Montag 08.07. (2,5h)
