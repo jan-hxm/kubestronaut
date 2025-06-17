@@ -1,14 +1,3 @@
-<html>
-  <style> 
-    ul { padding-left:20px; list-style:none; }
-    li { margin-bottom:10px; }
-    li:before {    
-      font-family: 'FontAwesome';
-      content: '\f00c';
-      margin:0 5px 0 -15px;
-    }
-  </style>
-</html>
 # 🚀 Kubestronaut Master-Lehrplan 2025-2026
 
 **Startdatum:** 15. Juni 2025  
@@ -51,7 +40,8 @@
 
 ### Woche 1 (16.-23. Juni 2025)
 **Fokus: Setup & Linux Basics**
-**Wochenaufwand**: 18h
+
+**geplanter Wochenaufwand**: 18h
 
 #### Montag 16.06. (3h)
 - ✅ Portal Login & THRIVE Setup (30 min)|
