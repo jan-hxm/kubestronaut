@@ -1,3 +1,14 @@
+<html>
+  <style> 
+    ul { padding-left:20px; list-style:none; }
+    li { margin-bottom:10px; }
+    li:before {    
+      font-family: 'FontAwesome';
+      content: '\f00c';
+      margin:0 5px 0 -15px;
+    }
+  </style>
+</html>
 # 🚀 Kubestronaut Master-Lehrplan 2025-2026
 
 **Startdatum:** 15. Juni 2025  
@@ -40,17 +51,17 @@
 
 ### Woche 1 (16.-23. Juni 2025)
 **Fokus: Setup & Linux Basics**
-**Wochenaufwand**: 18.5h
+**Wochenaufwand**: 18h
 
 #### Montag 16.06. (3h)
-✅ Portal Login & THRIVE Setup (30 min)
-✅ LFS207 Kapitel 1-2: Kurseinführung & Linux Grundlagen (2h)
-✅ Linux VM/WSL2 einrichten (30 min)
+- ✅ Portal Login & THRIVE Setup (30 min)|
+- ✅ LFS207 Kapitel 1-2: Kurseinführung & Linux Grundlagen (2h)
+- ✅ Linux VM/WSL2 einrichten (30 min)
 
 #### Dienstag 17.06. (2,5h)
-✅ LFS207 Kapitel 3: User Environment (1h)
-✅ LFS207 Kapitel 4: User Account Management (1h)
-✅ Basic Commands Practice (`useradd, usermod, userdel, passwd, chage`) (30 min)
+- ✅ LFS207 Kapitel 3: User Environment (1h)
+- ✅ LFS207 Kapitel 4: User Account Management (1h)
+- ✅ Basic Commands Practice (`useradd, usermod, userdel, passwd, chage`) (30 min)
 
 #### Mittwoch 18.06. (3h)
 - [ ] LFS207 Kapitel 5: Group Management (1.5h)
@@ -58,9 +69,9 @@
 - [ ] Hands-on: File Permissions & Ownership (15 min)
 - [ ] Commands Practice (`groupadd, groupdel, groupmod, and usermod`) (15min)
 
-#### Donnerstag 19.06. (3h)
+#### Donnerstag 19.06. (2.5h)
 - [ ] LFS207 Kapitel 7: Package Management Systems (1.5h)
-- [ ] LFS207 Kapitel 8: dpk (1h)
+- [ ] LFS207 Kapitel 8: dpk (30min)
 - [ ] Process Commands Practice () (30 min)
 
 #### Freitag 20.06. (3h)
