@@ -53,12 +53,14 @@
 
 #### Dienstag 17.06. (2,5h)
 - [x] LFS207 Kapitel 3: User Environment (1h)
-- [ ] LFS207 Kapitel 4: User Account Management (1h)
-- [x] Basic Commands Practice (ls, cd, pwd, mkdir, chmod) (30 min)
+- [x] LFS207 Kapitel 4: User Account Management (1h)
+- [x] Basic Commands Practice (useradd, usermod, userdel, passwd, chage) (30 min)
 
-#### Mittwoch 18.06. (2,5h)
-- [ ] LFS207 Kapitel 5-6: File Operations & Text Processing (2h)
-- [ ] Hands-on: File Permissions & Ownership (30 min)
+#### Mittwoch 18.06. (3h)
+- [ ] LFS207 Kapitel 5: Group Management (1.5h)
+- [ ] LFS207 Kapitel 6: File Permissions (1h)
+- [ ] Hands-on: File Permissions & Ownership (15 min)
+- [ ] Commands Practice (groupadd, groupdel, groupmod, and usermod) (15min)
 
 #### Donnerstag 19.06. (2,5h)
 - [ ] LFS207 Kapitel 7-8: Process Management & Job Control (2h)
