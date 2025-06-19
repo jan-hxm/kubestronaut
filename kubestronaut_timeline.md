@@ -54,15 +54,15 @@
 - ✅ Basic Commands Practice (`useradd, usermod, userdel, passwd, chage`) (30 min)
 
 #### Mittwoch 18.06. (3h)
-- [ ] LFS207 Kapitel 5: Group Management (1.5h)
-- [ ] LFS207 Kapitel 6: File Permissions (1h)
-- [ ] Hands-on: File Permissions & Ownership (15 min)
-- [ ] Commands Practice (`groupadd, groupdel, groupmod, and usermod`) (15min)
+- ✅ LFS207 Kapitel 5: Group Management (1.5h)
+- ✅ LFS207 Kapitel 6: File Permissions (1h)
+- ✅ Hands-on: File Permissions & Ownership (15 min)
+- ✅ Commands Practice (`groupadd, groupdel, groupmod, usermod, getfacl, setfacl`) (15min)
 
 #### Donnerstag 19.06. (2.5h)
-- [ ] LFS207 Kapitel 7: Package Management Systems (1.5h)
-- [ ] LFS207 Kapitel 8: dpk (30min)
-- [ ] Process Commands Practice () (30 min)
+- ✅ LFS207 Kapitel 7: Package Management Systems (1.5h)
+- ✅ LFS207 Kapitel 8: dpk (30min)
+- ✅ Process Commands Practice (`dpkg, git --init`) (30 min)
 
 #### Freitag 20.06. (3h)
 - [ ] LFS207 Kapitel 9-12: Package Management (APT,RPM,DNF&YUM,ZIPPER) (2.5h)
