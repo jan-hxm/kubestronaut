@@ -59,17 +59,21 @@
 - ✅ Hands-on: File Permissions & Ownership (15 min)
 - ✅ Commands Practice (`groupadd, groupdel, groupmod, usermod, getfacl, setfacl`) (15min)
 
-#### Donnerstag 19.06. (2.5h)
+#### Donnerstag 19.06. (3h)
 - ✅ LFS207 Kapitel 7: Package Management Systems (1.5h)
 - ✅ LFS207 Kapitel 8: dpk (30min)
+- ✅ LFS207 Kapitel 9: apt (30min)
 - ✅ Process Commands Practice (`dpkg, git --init`) (30 min)
 
 #### Freitag 20.06. (3h)
-- [ ] LFS207 Kapitel 9-12: Package Management (APT,RPM,DNF&YUM,ZIPPER) (2.5h)
+- [ ] <s>LFS207 Kapitel 10-12: Package Management (RPM,DNF&YUM,ZIPPER) (2.5h)</s> Taking Exam for Debian based Distro...
+- [ ] ...
 - [ ] Software Installation Labs (30 min)
 
-#### Samstag 21.06. (2h)
-- [ ] LFS207 Kapitel 11-12: System Services & Systemd (2h)
+#### Samstag 21.06. (5.5h)
+- [ ] LFS207 Kapitel 13: Git Fundamentals (2h)
+- [ ] LFS207 Kapitel 14: Processes (2h)
+- [ ] Befehle aus vorherigen Kapiteln üben (1.5h)
 
 #### Sonntag 22.06. (2h)
 - [ ] Wochenreview & Practice Labs
