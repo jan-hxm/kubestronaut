@@ -66,12 +66,11 @@
 - ✅ Process Commands Practice (`dpkg, git --init`) (30 min)
 
 #### Freitag 20.06. (3h)
-- [ ] <s>LFS207 Kapitel 10-12: Package Management (RPM,DNF&YUM,ZIPPER) (2.5h)</s> Taking Exam for Debian based Distro...
-- [ ] ...
-- [ ] Software Installation Labs (30 min)
+- ❌ <s>LFS207 Kapitel 10-12: Package Management (RPM,DNF&YUM,ZIPPER) (2.5h)</s> Taking Exam for Debian based Distro...
+- ✅ FS207 Kapitel 13: Git Fundamentals (2h)
+- ✅ Gitlab Commands Practice (`git branch`) (30 min)
 
 #### Samstag 21.06. (5.5h)
-- [ ] LFS207 Kapitel 13: Git Fundamentals (2h)
 - [ ] LFS207 Kapitel 14: Processes (2h)
 - [ ] Befehle aus vorherigen Kapiteln üben (1.5h)
 
