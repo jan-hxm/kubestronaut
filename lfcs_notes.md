@@ -22,7 +22,7 @@
 
 ### Key Reference
 - [Filesystem Hierarchy Standard (FHS)](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf) - defines directory structure requirements
-- ![][image1] *(image placeholder)*
+![Fs Hierarchy](./images/fs_hierarchy.jpg)
 
 ### The Root (/) Directory
 - Must contain all essential files to boot and mount other filesystems
