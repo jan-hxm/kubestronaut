@@ -70,13 +70,13 @@
 - ✅ FS207 Kapitel 13: Git Fundamentals (2h)
 - ✅ Gitlab Commands Practice (`git branch`) (30 min)
 
-#### Samstag 21.06. (5.5h)
-- [ ] LFS207 Kapitel 14: Processes (2h)
-- [ ] Befehle aus vorherigen Kapiteln üben (1.5h)
+#### Samstag 21.06. (3.5h)
+- ✅ LFS207 Kapitel 14: Processes (2h)
+- ✅ Befehle aus vorherigen Kapiteln üben (1.5h)
 
 #### Sonntag 22.06. (2h)
-- [ ] Wochenreview & Practice Labs
-- [ ] Schwachstellen identifizieren
+- ✅ LFS207 Kapitel 14: Processes (1h)
+- [ ] LFS207 Kapitel 15: Process Monitoring (2h)
 - [ ] Nächste Woche planen
 
 ### Woche 2 (23.-30. Juni 2025)
