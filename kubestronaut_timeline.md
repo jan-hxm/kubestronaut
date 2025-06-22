@@ -76,7 +76,8 @@
 
 #### Sonntag 22.06. (2h)
 - ✅ LFS207 Kapitel 14: Processes (1h)
-- [ ] LFS207 Kapitel 15: Process Monitoring (2h)
+- ✅ LFS207 Kapitel 15: Process Monitoring (2h)
+- ✅ Process Commands Practice (`crontab, ps, pstree, top, ulimit, nice, renice`)
 - [ ] Nächste Woche planen
 
 ### Woche 2 (23.-30. Juni 2025)
