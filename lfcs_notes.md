@@ -9,6 +9,7 @@
 - [Chapter 7-9: Package Management (dpkg/APT)](#chapter-7-9-package-management-dpkgapt)
 - [Chapter 13: Git Fundamentals](#chapter-13-git-fundamentals)
 - [Chapter 14: Processes](#chapter-14-processes)
+- [Chapter 15: Process Monitoring](#chapter-15-process-monitoring)
 
 ---
 
@@ -754,6 +755,122 @@ $ jobs
   - `journalctl -f` # Follow logs
   - `journalctl --since "1 hour ago"` # Time-based
   - `journalctl -p err` # By priority
+
+# Chapter 15: Process Monitoring
+
+## Core Commands (Focus on These)
+
+### ps aux - Main Process Viewer
+```bash
+ps aux                    # Show all processes with details
+ps aux | grep process     # Find specific process
+ps aux | sort -k 3 -nr    # Sort by CPU usage (column 3)
+ps aux | sort -k 4 -nr    # Sort by memory usage (column 4)
+ps aux | head -10         # Show top 10 processes
+```
+
+**Key columns in ps aux output:**
+- `USER` - Process owner
+- `PID` - Process ID
+- `%CPU` - CPU percentage
+- `%MEM` - Memory percentage  
+- `VSZ` - Virtual memory size
+- `RSS` - Physical memory used
+- `STAT` - Process state (R=running, S=sleeping, D=uninterruptible, T=stopped, Z=zombie)
+- `START` - Start time
+- `TIME` - CPU time used
+- `COMMAND` - Command that started the process
+
+### top - Real-time Process Monitor
+```bash
+top                       # Launch interactive process monitor
+top -u username          # Show processes for specific user
+top -p PID               # Monitor specific process
+```
+
+**Essential top interactive keys:**
+- `q` - Quit
+- `k` - Kill process (enter PID when prompted)
+- `M` - Sort by memory usage
+- `P` - Sort by CPU usage
+- `u` - Filter by username
+- `1` - Toggle individual CPU core display
+
+### Process Control
+```bash
+kill PID                 # Terminate process (SIGTERM)
+kill -9 PID              # Force kill (SIGKILL)
+killall process_name     # Kill all processes by name
+pgrep process_name       # Find PID by process name
+pidof process_name       # Alternative to find PID
+```
+
+### Quick System Health Checks
+```bash
+cat /proc/loadavg        # System load (1min, 5min, 15min averages)
+cat /proc/meminfo        # Detailed memory information
+free -h                  # Memory usage summary
+```
+
+## Process States (STAT column)
+- `R` - **Running** or runnable
+- `S` - **Sleeping** (interruptible)
+- `D` - **Sleeping** (uninterruptible) - usually waiting for I/O
+- `T` - **Stopped** (by signal or debugger)
+- `Z` - **Zombie** (terminated but not cleaned up by parent)
+- `<` - High priority process
+- `N` - Low priority process
+
+## Common Troubleshooting Patterns
+
+### Find resource-heavy processes:
+```bash
+ps aux --sort=-%cpu | head -10    # Top CPU users
+ps aux --sort=-%mem | head -10    # Top memory users
+```
+
+### Find and kill stuck processes:
+```bash
+ps aux | grep process_name        # Find the process
+kill -9 PID                       # Force kill it
+```
+
+### Monitor specific user:
+```bash
+ps aux | grep username            # All processes by user
+top -u username                   # Real-time view for user
+```
+
+### Check system load:
+```bash
+cat /proc/loadavg                 # Load averages
+top                               # Real-time load in header
+```
+
+## Additional Useful Commands
+
+### Process tree view:
+```bash
+pstree                   # Show process hierarchy
+pstree -p                # Include PIDs
+pstree username          # Tree for specific user
+```
+
+### Background/foreground jobs:
+```bash
+jobs                     # List active jobs
+bg %1                    # Send job 1 to background
+fg %1                    # Bring job 1 to foreground
+nohup command &          # Run command immune to hangups
+```
+
+### Process information from /proc:
+```bash
+ls /proc/PID/            # All info for specific process
+cat /proc/PID/status     # Process status details
+cat /proc/PID/cmdline    # Command line used to start process
+ls -l /proc/PID/fd/      # Open file descriptors
+```
 
 ---
 
