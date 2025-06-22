@@ -77,7 +77,7 @@
 #### Sonntag 22.06. (7h)
 - ✅ LFS207 Kapitel 14: Processes (1h)
 - ✅ LFS207 Kapitel 15: Process Monitoring (2h)
-- [ ] LFS207 Kapitel 16. Memory Monitoring, Usage and Configuring Swap (2h)
+- ✅ LFS207 Kapitel 16. Memory Monitoring, Usage and Configuring Swap (2h)
 - ✅ Process Commands Practice (`crontab, ps, pstree, top, ulimit, nice, renice`)
 - [ ] Nächste Woche planen
 
