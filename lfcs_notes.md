@@ -1,6 +1,7 @@
 # LFCS Study Notes - LFS207
 
 ## Table of Contents
+- [Must knows](#must-knows)
 - [Chapter 2: Linux Filesystem Tree Layout](#chapter-2-linux-filesystem-tree-layout)
 - [Chapter 3: User Environment](#chapter-3-user-environment)
 - [Chapter 4: User Account Management](#chapter-4-user-account-management)
@@ -12,6 +13,24 @@
 - [Chapter 15: Process Monitoring](#chapter-15-process-monitoring)
 
 ---
+
+## Must knows
+
+I **MUST** be fast with these topics:
+
+- Creating/managing users and groups
+- Setting permissions and ACLs
+- Managing services with systemctl
+- Package management (apt)
+- Finding files and text processing
+- Creating and extracting archives
+- Basic networking configuration
+- Mounting filesystems and /etc/fstab
+- Process management
+- Basic bash scripting
+- SSH key management
+- Cron jobs
+- System logs
 
 ## Chapter 2: Linux Filesystem Tree Layout
 
