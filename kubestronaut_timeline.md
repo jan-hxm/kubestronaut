@@ -79,14 +79,14 @@
 - ✅ LFS207 Kapitel 15: Process Monitoring (2h)
 - ✅ LFS207 Kapitel 16. Memory Monitoring, Usage and Configuring Swap (2h)
 - ✅ Process Commands Practice (`crontab, ps, pstree, top, ulimit, nice, renice`)
-- [ ] Nächste Woche planen
 
 ### Woche 2 (23.-30. Juni 2025)
 **Fokus: System Administration Deep Dive**
 
-#### Montag 23.06. (2,5h)
-- [ ] LFS207 Kapitel 13-14: Networking Basics & Configuration (2h)
-- [ ] Network Commands Practice (ip, netstat, ss) (30 min)
+#### Montag 23.06. (3h)
+- ✅ LFS207 Kapitel 17: I/O Monitoring (1h)
+- ✅ LFS207 Kapitel 18: Containers Overview (1h)
+- ✅ LFS207 Kapitel 19: Linux Filesystems and the VFS (1h)
 
 #### Dienstag 24.06. (2,5h)
 - [ ] LFS207 Kapitel 15-16: Storage & Filesystem Management (2h)
