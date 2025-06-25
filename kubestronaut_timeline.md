@@ -88,24 +88,17 @@
 - ✅ LFS207 Kapitel 18: Containers Overview (1h)
 - ✅ LFS207 Kapitel 19: Linux Filesystems and the VFS (1h)
 
-#### Dienstag 24.06. (2,5h)
-- [ ] LFS207 Kapitel 15-16: Storage & Filesystem Management (2h)
-- [ ] Disk Management Labs (fdisk, mkfs, mount) (30 min)
+#### Dienstag 24.06. (2h)
+- ✅ LFS207 Kapitel 20: Disk Partitioning (2h)
 
 #### Mittwoch 25.06. (2,5h)
-- [ ] LFS207 Kapitel 17-18: Users & Groups Management (2h)
-- [ ] User Administration Practice (useradd, usermod, groups) (30 min)
+- [ ] LFS207 Kapitel 21: Filesystem Features: Attributes, Creating, Checking, Usage, Mounting (2h)
 
 #### Donnerstag 26.06. (2,5h)
-- [ ] LFS207 Kapitel 19-20: Security & Access Control (2h)
-- [ ] Permission Labs & sudo Configuration (30 min)
 
 #### Freitag 27.06. (2,5h)
-- [ ] LFS207 Kapitel 21-22: System Monitoring & Performance (2h)
-- [ ] Performance Tools Practice (htop, iotop, sar) (30 min)
 
 #### Samstag 28.06. (2h)
-- [ ] LFS207 Kapitel 23-24: Logging & Troubleshooting (2h)
 
 #### Sonntag 29.06. (2h)
 - [ ] Kapitel 1-24 Review
