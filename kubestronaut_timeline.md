@@ -92,9 +92,11 @@
 - ✅ LFS207 Kapitel 20: Disk Partitioning (2h)
 
 #### Mittwoch 25.06. (2,5h)
-- [ ] LFS207 Kapitel 21: Filesystem Features: Attributes, Creating, Checking, Usage, Mounting (2h)
+- ✅ LFS207 Kapitel 21: File integrity, recovery (1h)
 
 #### Donnerstag 26.06. (2,5h)
+- ✅ LFS207 Kapitel 21: Mounting, Network block devices (1h)
+- ✅ Command Practice (`lsattr, chattr, mkfs, fsck, df, du`) (1h)
 
 #### Freitag 27.06. (2,5h)
 
