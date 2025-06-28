@@ -99,8 +99,10 @@
 - ✅ Command Practice (`lsattr, chattr, mkfs, fsck, df, du`) (1h)
 
 #### Freitag 27.06. (2,5h)
+- ❌
 
 #### Samstag 28.06. (2h)
+- ✅ LFS207 Kapitel 22: Ext4 Filesystem (2h)
 
 #### Sonntag 29.06. (2h)
 - [ ] Kapitel 1-24 Review
