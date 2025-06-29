@@ -116,23 +116,30 @@
 ### Woche 3 (30. Juni-06. Juli 2025)
 **Fokus: Advanced Administration**
 
-#### Montag 30.06. (2,5h)
-- [ ] LFS207 Kapitel 25-26: Backup & Recovery (2h)
-- [ ] Backup Strategy Labs (tar, rsync, cron) (30 min)
+#### Montag 30.06. (4,5h)
+- [ ] LFS207 Kapitel 25: Kernel Modules (2h)
+- [ ] LFS207 Kapitel 26: Devices & UDEV (2h)
+- [ ] Command practice (`insmod, rmmod, modprobe`) (30min)
 
-#### Dienstag 01.07. (2,5h)
-- [ ] LFS207 Kapitel 27-28: Shell Scripting & Automation (2h)
-- [ ] Basic Script Writing Practice (30 min)
+#### Dienstag 01.07. (4,5h)
+- [ ] LFS207 Kapitel 27: Network Addresses (2h)
+- [ ] LFS207 Kapitel 28: Network Devices and Configuration (2h)
+- [ ] Command practice (30 min)
 
-#### Mittwoch 02.07. (2,5h)
-- [ ] LFS207 Kapitel 29-30: Final Advanced Topics (2h)
+#### Mittwoch 02.07. (5,5h)
+- [ ] LFS207 Kapitel 29: LDAP (1h)
+- [ ] LFS207 Kapitel 30: Firewalls (2h)
+- [ ] LFS207 Kapitel 31: System Init: systemd History and Customization (2h)
 - [ ] System Optimization Labs (30 min)
 
-#### Donnerstag 03.07. (2,5h)
-- [ ] LFS207 Complete Course Review (1,5h)
+#### Donnerstag 03.07. (6h)
+- [ ] LFS207 Kapitel 32: Backup and Recovery Methods (2h)
+- [ ] LFS207 Kapitel 33: Linux Security Modules (2h)
+- [ ] LFS207 Kapitel 34: System Rescue (1h)
 - [ ] All Lab Exercises Completion Check (1h)
 
 #### Freitag 04.07. (2,5h)
+- [ ] LFCS Course Completion (Kapitel 35) (30min)
 - [ ] LFCS Practice Tests Beginn (2h)
 - [ ] Weak Areas Identification (30 min)
 
