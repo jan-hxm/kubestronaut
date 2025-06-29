@@ -105,9 +105,8 @@
 - ✅ LFS207 Kapitel 22: Ext4 Filesystem (2h)
 
 #### Sonntag 29.06. (2h)
-- [ ] Kapitel 1-24 Review
-- [ ] Comprehensive Lab Session
-- [ ] Knowledge Gap Assessment
+- ✅ LFS207 Kapitel 23: Logical Volume Management (LVM) (2h)
+- ✅ Command Practice (`pv, vg, lv`) (1h)
 
 ### Woche 3 (30. Juni-06. Juli 2025)
 **Fokus: Advanced Administration**
