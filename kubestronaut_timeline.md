@@ -2,21 +2,20 @@
 
 **Startdatum:** 15. Juni 2025  
 **Ziel:** 6 Linux Foundation Zertifikate in 12 Monaten  
-**Status:** Software Engineer → DevOps Expert  
-
+**Status:** LFS207 Chapters `24/35` completed...
 ---
 
 ## 📊 Übersicht & Zeitplan
 
-| Phase | Zeitraum | Zertifikat | Dauer | Wochenstunden | Prüfungstermin |
-|-------|----------|------------|-------|---------------|----------------|
-| **Phase 1** | Juni-Juli 2025 | LFCS | 6 Wochen | 17h | 31.07.2025 |
-| **Phase 2** | Aug 2025 | KCNA | 4 Wochen | 15h | 31.08.2025 |
-| **Phase 3** | Sep-Nov 2025 | CKA | 12 Wochen | 15h | 30.11.2025 |
-| **Phase 4** | Dez 2025-Jan 2026 | CKAD | 8 Wochen | 15h | 31.01.2026 |
-| **Phase 5** | Feb 2026 | KCSA | 4 Wochen | 12h | 28.02.2026 |
-| **Phase 6** | Mar-Mai 2026 | CKS | 12 Wochen | 17h | 31.05.2026 |
-| **Phase 7** | Jun 2026 | Puffer | 4 Wochen | 5h | - |
+| Phase | Zeitraum | Zertifikat | Dauer | Wochenstunden | Total Aufwand | Prüfungstermin |
+|-------|----------|------------|-------|---------------|-------------|----------------|
+| **Phase 1** | Juni-Juli 2025 | LFCS | 6 Wochen | 18h | - | 31.07.2025 |
+| **Phase 2** | Aug 2025 | KCNA | 4 Wochen | 15h | - | 31.08.2025 |
+| **Phase 3** | Sep-Nov 2025 | CKA | 12 Wochen | 15h | - | 30.11.2025 |
+| **Phase 4** | Dez 2025-Jan 2026 | CKAD | 8 Wochen | 15h | - | 31.01.2026 |
+| **Phase 5** | Feb 2026 | KCSA | 4 Wochen | 12h | - | 28.02.2026 |
+| **Phase 6** | Mar-Mai 2026 | CKS | 12 Wochen | 17h | - | 31.05.2026 |
+| **Phase 7** | Jun 2026 | Puffer | 4 Wochen | 5h | - | - |
 
 **Gesamtaufwand:** ~750 Stunden über 12 Monate  
 **Durchschnitt:** 15 Stunden/Woche (7 Tage!)  
@@ -38,10 +37,15 @@
 ## 🎯 Phase 1: Linux Foundation LFCS (Juni-Juli 2025)
 **Ziel:** LFCS | **6 Wochen** | **17h/Woche**
 
+|             | Soll   | Ist   |
+|-------------|--------|-------|
+| **Woche 1** | 18h    | 25h   |
+| **Woche 2** | 18h    | 14.5h |
+| **Woche 3** | 18h    | -     |
+
+
 ### Woche 1 (16.-23. Juni 2025)
 **Fokus: Setup & Linux Basics**
-
-**geplanter Wochenaufwand**: 18h
 
 #### Montag 16.06. (3h)
 - ✅ Portal Login & THRIVE Setup (30 min)|
@@ -91,20 +95,20 @@
 #### Dienstag 24.06. (2h)
 - ✅ LFS207 Kapitel 20: Disk Partitioning (2h)
 
-#### Mittwoch 25.06. (2,5h)
+#### Mittwoch 25.06. (1h)
 - ✅ LFS207 Kapitel 21: File integrity, recovery (1h)
 
-#### Donnerstag 26.06. (2,5h)
+#### Donnerstag 26.06. (2h)
 - ✅ LFS207 Kapitel 21: Mounting, Network block devices (1h)
 - ✅ Command Practice (`lsattr, chattr, mkfs, fsck, df, du`) (1h)
 
-#### Freitag 27.06. (2,5h)
+#### Freitag 27.06. (0h)
 - ❌
 
 #### Samstag 28.06. (2h)
 - ✅ LFS207 Kapitel 22: Ext4 Filesystem (2h)
 
-#### Sonntag 29.06. (2h)
+#### Sonntag 29.06. (4.5h)
 - ✅ LFS207 Kapitel 23: Logical Volume Management (LVM) (2h)
 - ✅ LFS207 Kapitel 24: Kernel Services and Configuration (1.5h)
 - ✅ Command Practice (`pv, vg, lv, sysctl`) (1h)
