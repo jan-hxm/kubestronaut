@@ -106,7 +106,8 @@
 
 #### Sonntag 29.06. (2h)
 - ✅ LFS207 Kapitel 23: Logical Volume Management (LVM) (2h)
-- ✅ Command Practice (`pv, vg, lv`) (1h)
+- ✅ LFS207 Kapitel 24: Kernel Services and Configuration (1.5h)
+- ✅ Command Practice (`pv, vg, lv, sysctl`) (1h)
 
 ### Woche 3 (30. Juni-06. Juli 2025)
 **Fokus: Advanced Administration**
