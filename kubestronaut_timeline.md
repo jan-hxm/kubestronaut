@@ -117,9 +117,9 @@
 **Fokus: Advanced Administration**
 
 #### Montag 30.06. (4,5h)
-- [ ] LFS207 Kapitel 25: Kernel Modules (2h)
-- [ ] LFS207 Kapitel 26: Devices & UDEV (2h)
-- [ ] Command practice (`insmod, rmmod, modprobe`) (30min)
+- ✅ LFS207 Kapitel 25: Kernel Modules (2h)
+- ✅ LFS207 Kapitel 26: Devices & UDEV (2h)
+- ✅ Command practice (`insmod, rmmod, modprobe`) (30min)
 
 #### Dienstag 01.07. (4,5h)
 - [ ] LFS207 Kapitel 27: Network Addresses (2h)
