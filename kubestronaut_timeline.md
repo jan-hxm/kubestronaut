@@ -123,8 +123,8 @@
 
 #### Dienstag 01.07. (4,5h)
 - ✅ LFS207 Kapitel 27: Network Addresses (2h)
-- [ ] LFS207 Kapitel 28: Network Devices and Configuration (2h)
-- [ ] Command practice (`ntpq, etc/ntp.conf`) (30 min)
+- ✅ LFS207 Kapitel 28: Network Devices and Configuration (2h)
+- ✅ Command practice (`ntpq, etc/ntp.conf, dig`) (30 min)
 
 #### Mittwoch 02.07. (5,5h)
 - [ ] LFS207 Kapitel 29: LDAP (1h)
