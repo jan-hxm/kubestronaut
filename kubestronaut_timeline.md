@@ -127,12 +127,13 @@
 - ✅ Command practice (`ntpq, etc/ntp.conf, dig`) (30 min)
 
 #### Mittwoch 02.07. (5,5h)
-- [ ] LFS207 Kapitel 29: LDAP (1h)
-- [ ] LFS207 Kapitel 30: Firewalls (2h)
-- [ ] LFS207 Kapitel 31: System Init: systemd History and Customization (2h)
-- [ ] System Optimization Labs (30 min)
+- ✅ LFS207 Kapitel 29: LDAP (1h)
+- ✅ LFS207 Kapitel 30: Firewalls (2h)
+- ❌ LFS207 Kapitel 31: System Init: systemd History and Customization (2h)
+- ✅ Command practice (`firewall-cmd`) (30 min)
 
 #### Donnerstag 03.07. (6h)
+- [ ] LFS207 Kapitel 31: System Init: systemd History and Customization (2h)
 - [ ] LFS207 Kapitel 32: Backup and Recovery Methods (2h)
 - [ ] LFS207 Kapitel 33: Linux Security Modules (2h)
 - [ ] LFS207 Kapitel 34: System Rescue (1h)
