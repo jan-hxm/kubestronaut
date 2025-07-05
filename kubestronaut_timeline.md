@@ -2,7 +2,7 @@
 
 **Startdatum:** 15. Juni 2025  
 **Ziel:** 6 Linux Foundation Zertifikate in 12 Monaten  
-**Status:** LFS207 Chapters `24/35` completed...
+**Status:** LFS207 Chapters `33/35` completed...
 ---
 
 ## 📊 Übersicht & Zeitplan
@@ -140,14 +140,14 @@
 - ✅ Command practice (`systemctl, dd, tar`) (30min)
 
 #### Freitag 04.07. (2,5h)
-- [ ] LFS207 Kapitel 33: Linux Security Modules (2h)
+- ❌
+
+#### Samstag 05.07. (2h)
+- ✅ LFS207 Kapitel 33: Linux Security Modules (2h)
 - [ ] LFS207 Kapitel 34: System Rescue (1h)
 - [ ] LFCS Course Completion (Kapitel 35) (30min)
 - [ ] LFCS Practice Tests Beginn (2h)
 - [ ] Weak Areas Identification (30 min)
-
-#### Samstag 05.07. (2h)
-- [ ] LFCS Mock Exam 1 (2h)
 
 #### Sonntag 06.07. (2h)
 - [ ] Mock Exam Review & Error Analysis
