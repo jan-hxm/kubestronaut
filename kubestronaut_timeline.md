@@ -2,7 +2,7 @@
 
 **Startdatum:** 15. Juni 2025  
 **Ziel:** 6 Linux Foundation Zertifikate in 12 Monaten  
-**Status:** LFS207 Chapters `33/35` completed...
+**Status:** LFS207 Chapters `35/35` completed...
 ---
 
 ## 📊 Übersicht & Zeitplan
@@ -41,7 +41,8 @@
 |-------------|--------|-------|
 | **Woche 1** | 18h    | 25h   |
 | **Woche 2** | 18h    | 14.5h |
-| **Woche 3** | 18h    | -     |
+| **Woche 3** | 18h    | 19h   |
+| **Woche 4** | 18h    | -     |
 
 
 ### Woche 1 (16.-23. Juni 2025)
@@ -102,9 +103,6 @@
 - ✅ LFS207 Kapitel 21: Mounting, Network block devices (1h)
 - ✅ Command Practice (`lsattr, chattr, mkfs, fsck, df, du`) (1h)
 
-#### Freitag 27.06. (0h)
-- ❌
-
 #### Samstag 28.06. (2h)
 - ✅ LFS207 Kapitel 22: Ext4 Filesystem (2h)
 
@@ -139,34 +137,16 @@
 - ❌ LFS207 Kapitel 34: System Rescue (1h)
 - ✅ Command practice (`systemctl, dd, tar`) (30min)
 
-#### Freitag 04.07. (2,5h)
-- ❌
-
 #### Samstag 05.07. (2h)
 - ✅ LFS207 Kapitel 33: Linux Security Modules (2h)
-- [ ] LFS207 Kapitel 34: System Rescue (1h)
-- [ ] LFCS Course Completion (Kapitel 35) (30min)
-- [ ] LFCS Practice Tests Beginn (2h)
-- [ ] Weak Areas Identification (30 min)
-
-#### Sonntag 06.07. (2h)
-- [ ] Mock Exam Review & Error Analysis
-- [ ] Remedial Learning für schwache Bereiche
 
 ### Woche 4 (07.-14. Juli 2025)
 **Fokus: LFCS Exam Preparation**
 
-#### Montag 08.07. (2,5h)
-- [ ] LFCS Killer.sh Simulator (Attempt 1) (2h)
-- [ ] Performance Analysis & Gap Identification (30 min)
-
-#### Dienstag 09.07. (2,5h)
-- [ ] Focused Review auf Killer.sh Schwächen (2h)
-- [ ] Additional Practice Labs (30 min)
-
 #### Mittwoch 10.07. (2,5h)
-- [ ] LFCS Mock Exam 2 (2h)
-- [ ] Comprehensive Review Session (30 min)
+- ✅ LFS207 Kapitel 34: System Rescue (1h)
+- ✅ LFCS Course Completion (Kapitel 35) (30min)
+- [ ] LFCS Practice Tests Beginn (2h)
 
 #### Donnerstag 11.07. (2,5h)
 - [ ] LFCS Killer.sh Simulator (Attempt 2) (2h)
