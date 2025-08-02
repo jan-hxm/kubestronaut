@@ -146,88 +146,12 @@
 #### Mittwoch 10.07. (2,5h)
 - ✅ LFS207 Kapitel 34: System Rescue (1h)
 - ✅ LFCS Course Completion (Kapitel 35) (30min)
-- [ ] LFCS Practice Tests Beginn (2h)
+- ✅ LFCS Practice Tests Beginn (2h)
 
-#### Donnerstag 11.07. (2,5h)
-- [ ] LFCS Killer.sh Simulator (Attempt 2) (2h)
-- [ ] Final Gap Analysis (30 min)
+#### 11.07. - 01.08. Mental Pause
 
-#### Freitag 12.07. (2,5h)
-- [ ] Speed Training Session (Tasks <10 min) (2h)
-- [ ] Exam Strategy & Time Management (30 min)
-
-#### Samstag 13.07. (2h)
-- [ ] Final Mock Exam (2h)
-
-#### Sonntag 14.07. (2h)
-- [ ] Complete LFCS Review
-- [ ] Exam Preparation Checklist
-- [ ] Mental Preparation
-
-### Woche 5 (15.-21. Juli 2025)
-**Fokus: LFCS Final Prep & Buffer**
-
-#### Montag 15.07. (2,5h)
-- [ ] Last-minute LFCS Review (2h)
-- [ ] Exam Environment Setup & Test (30 min)
-
-#### Dienstag 16.07. (2,5h)
-- [ ] **LFCS EXAM** (Scheduled 2-3h)
-
-#### Mittwoch 17.07. (2,5h)
-- [ ] Post-Exam Decompression
-- [ ] Results Analysis wenn verfügbar
-- [ ] Phase 2 (KCNA) Vorbereitung
-
-#### Donnerstag 18.07. (2,5h)
-- [ ] LFS250 (Kubernetes Essentials) Preview
-- [ ] Cloud Native Landscape Überblick
-- [ ] CNCF Einführung
-
-#### Freitag 19.07. (2,5h)
-- [ ] Container Grundlagen
-- [ ] Docker Basics Review
-- [ ] Kubernetes Introduction
-
-#### Samstag 20.07. (2h)
-- [ ] Kubernetes Architecture Overview
-- [ ] Pods & Nodes Concepts
-
-#### Sonntag 21.07. (2h)
-- [ ] Woche 5 Review
-- [ ] KCNA Learning Path Setup
-- [ ] Phase 2 Planung
-
-### Woche 6 (22.-28. Juli 2025)
-**Fokus: Buffer Week & KCNA Preview**
-
-#### Montag 22.07. (2,5h)
-- [ ] LFCS Retake Vorbereitung (falls nötig) ODER
-- [ ] LFS250 Kapitel 1-2: Course Introduction & Basics
-
-#### Dienstag 23.07. (2,5h)
-- [ ] LFCS Retake (falls nötig) ODER
-- [ ] LFS250 Kapitel 3-4: Container Orchestration
-
-#### Mittwoch 24.07. (2,5h)
-- [ ] LFS250 Kapitel 5-6: Kubernetes Components
-- [ ] kubectl Basic Commands
-
-#### Donnerstag 25.07. (2,5h)
-- [ ] LFS250 Kapitel 7-8: Workload Concepts
-- [ ] Pod & Service Basics
-
-#### Freitag 26.07. (2,5h)
-- [ ] LFS250 Kapitel 9-10: Configuration Management
-- [ ] ConfigMaps & Secrets Intro
-
-#### Samstag 27.07. (2h)
-- [ ] Phase 1 Complete Review
-- [ ] Achievement Assessment
-
-#### Sonntag 28.07. (2h)
-- [ ] Phase 2 (KCNA) Detailed Planning
-- [ ] Learning Environment Optimization
+#### Samstag 02.08. (2h)
+- [ ] Killer.sh Exam recap
 
 ---
 
